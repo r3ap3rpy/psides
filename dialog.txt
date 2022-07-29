@@ -1,0 +1,7 @@
+This is cool!
+This is the next  line!
+And another line!
+And another line!\n
+And another line!\n
+And another line!\n
+And another line!\n
